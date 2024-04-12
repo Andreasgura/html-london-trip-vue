@@ -32,6 +32,11 @@ export default {
                     where: London,
                     when: April,
                     what: drink
+                },
+                {
+                    where: London,
+                    when: April,
+                    what: drink
                 }
             ]
         }
