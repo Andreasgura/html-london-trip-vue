@@ -5,6 +5,7 @@
 <li>Elisa</li>
 <li>ANdrea</li>
 <li>Adriana</li>
+<li>Francesca</li>
    </ul></footer>
 </template>
 <script>
