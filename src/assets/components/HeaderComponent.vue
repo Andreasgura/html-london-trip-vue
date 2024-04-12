@@ -1,7 +1,7 @@
 <template>
-    <div>
-        Header
-    </div>
+    <header>
+        Il mio viaggio a London
+    </header>
 </template>
 
 <script>
